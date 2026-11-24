@@ -1,0 +1,1 @@
+{"name":"firetv-remote","version":"1.0.0","private":true,"description":"A local web remote for Amazon Fire TV devices over ADB","scripts":{"start":"node server.js"}}
